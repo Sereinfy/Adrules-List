@@ -20,13 +20,14 @@ AdGuard Home + 浏览器插件，或 只用浏览器插件，全都用
 
 <tr>
 <td align="left">AdBlock DNS Filters</td> 
-<td align="left"><a href="https://gcore.jsdelivr.net/gh/217heidai/adblockfilters/rules/adblockfilters.txt" rel="nofollow">加速链接</a></td>
+<td align="left"><a href="https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt" rel="nofollow">加速链接</a></td>
+
 <td align="left">dns</td> 
 </tr>
 
 <tr>
 <td align="left">AdblockFilters</td> 
-<td align="left"><a href="https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt" rel="nofollow">加速链接</a></td>
+<td align="left"><a href="https://gcore.jsdelivr.net/gh/217heidai/adblockfilters/rules/adblockfilters.txt" rel="nofollow">加速链接</a></td>
 <td align="left">filter</td>
 </tr>
 
