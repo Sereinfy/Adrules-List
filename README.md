@@ -1,5 +1,5 @@
 # Adrules
-收集了适用于DNS拦截的广告规则（也可以只用插件），同时配合浏览器插件补充部分规则。拦截效果接近100%</br>
+收集了适用于浏览器和DNS拦截的广告规则，同时配合浏览器插件补充部分规则。拦截效果接近100%</br>
 
 
 **DNS类型只选一个**
@@ -8,6 +8,10 @@ AdGuard Home 使用 DNS类型
 >ADgk规则里有一些没有被转换为dns类型，所以用浏览器插件加载的方式重复补充
 
 下面写的分数，是DNS+补充的得分
+
+**AbBlock List + AdblockFilters 已可以过滤几乎所有常见广告**</br>
+也可以AbBlock List + ADgk 轻量使用</br>
+AdblockFilters 已包含 NoAppDownload,ADgk,乘风广告过滤规则 的大部分规则，由于这几个条目少，重复启用也可以。
 
 <table> 
 <thead>
