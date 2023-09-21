@@ -7,6 +7,8 @@ AdGuard Home + 浏览器插件，或 只用浏览器插件，DNS类型选一个�
 只用AdGuard Home 使用 DNS类型
 >其他为补充规则，可选，推荐用插件加个ADgk规则
 
+下面写的分数，是DNS+补充的得分，
+
 
 <table> 
 <thead>
@@ -14,76 +16,90 @@ AdGuard Home + 浏览器插件，或 只用浏览器插件，DNS类型选一个�
 <th align="left">来源</th> 
 <th align="left">规则</th>
 <th align="left">类型</th>  
+<th align="left">备注</th>  
 </tr>
 </thead>
 <tbody>
 
 <tr>
 <td align="left">AdBlock DNS Filters</td> 
-<td align="left"><a href="https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt" rel="nofollow">加速链接</a></td>
+<td align="left"><a href="https://gcore.jsdelivr.net/gh/217heidai/adblockfilters/rules/adblockdns.txt" rel="nofollow">加速链接</a></td>
 <td align="left">dns</td> 
+<td align="left">条目多 100分</td> 
 </tr>
 
 <tr>
 <td align="left">AbBlock List</td> 
 <td align="left"><a href="https://gcore.jsdelivr.net/gh/xndeye/adblock_list/rule/dns.txt" rel="nofollow">加速链接</a></td>
 <td align="left">dns</td> 
+    <td align="left">条目中 95分</td> 
 </tr>
 
 
 <tr>
 <td align="left">anti-AD 中文区规则</td> 
-<td align="left"><a href="https://anti-ad.net/easylist.txt" rel="nofollow">加速链接</a></td>
+<td align="left"><a href="https://anti-ad.net/easylist.txt" rel="nofollow">官网链接</a></td>
 <td align="left">dns</td> 
+    <td align="left">条目少 92分</td> 
 </tr>
-
+</tbody>
+<tbody>
+<th align="left">补充</th> 
 
 <tr>
 <td align="left">AdblockFilters</td> 
 <td align="left"><a href="https://gcore.jsdelivr.net/gh/217heidai/adblockfilters/rules/adblockfilters.txt" rel="nofollow">加速链接</a></td>
 <td align="left">filter</td>
+    <td align="left">可选</td> 
 </tr>
 
 <tr>
 <td align="left">NoAppDownload</td> 
 <td align="left"><a href="https://gcore.jsdelivr.net/gh/Noyllopa/NoAppDownload/NoAppDownload.txt" rel="nofollow">加速链接</a></td>
 <td align="left">filter</td>
+    <td align="left">下载按钮</td> 
 </tr>
 
 <tr>
 <td align="left">禁止社交媒体图标列表</td>
 <td align="left"><a href="https://easylist.to/easylist/fanboy-social.txt" rel="nofollow">加速链接</a></td>  
 <td align="left">filter</td>
+    <td align="left">社交按钮</td> 
 </tr>
 
 <tr>
 <td align="left">ADgk 手机适配规则</td>
 <td align="left"><a href="https://gcore.jsdelivr.net/gh/banbendalao/ADgk/ADgk.txt" rel="nofollow">加速链接</a></td> 
 <td align="left">filter</td>
+    <td align="left"></td> 
 </tr>
 
 <tr>
 <td align="left">I don't care about cookies</td> 
 <td align="left"><a href="https://www.i-dont-care-about-cookies.eu/abp/" rel="nofollow">加速链接</a></td>
 <td align="left">filter</td>
+    <td align="left"></td> 
 </tr>
 
 <tr>
 <td align="left">乘风广告过滤规则</td>
 <td align="left"><a href="https://gcore.jsdelivr.net/gh/xinggsf/Adblock-Plus-Rule/rule.txt" rel="nofollow">加速链接</a></td>
 <td align="left">filter</td>
+    <td align="left"></td> 
 </tr>
 
 <tr>
 <td align="left">乘风视频过滤规则</td>
 <td align="left"><a href="https://gcore.jsdelivr.net/gh/xinggsf/Adblock-Plus-Rule/mv.txt" rel="nofollow">加速链接</a></td>
 <td align="left">filter</td> 
+    <td align="left"></td> 
 </tr>
 
 <tr>
 <td align="left">乘风小众视频规则</td>
 <td align="left"><a href="https://gcore.jsdelivr.net/gh/xinggsf/Adblock-Plus-Rule/minority-mv.txt" rel="nofollow">加速链接</a></td>  
 <td align="left">filter</td>
+    <td align="left"></td> 
 </tr>
 </tbody>
 </table>
@@ -118,7 +134,9 @@ AdGuard Home + 浏览器插件，或 只用浏览器插件，DNS类型选一个�
 
 </details>
 <details>
-<summary>点击查看上游规则AbBlock List</summary>
+<summary>点击查看上游规则
+<a href="https://github.com/xndeye/adblock_list" rel="nofollow">[AbBlock List]</a>
+    </summary>
 <ul>
     <li><a href="https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt">AdGuard 基础过滤器</a></li>
     <li><a href="https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt">AdGuard 移动广告过滤器</a></li>
@@ -141,7 +159,9 @@ AdGuard Home + 浏览器插件，或 只用浏览器插件，DNS类型选一个�
 </ul>
 </details>
 <details>
-<summary>点击查看上游规则anti-AD</summary>
+<summary>点击查看上游规则
+<a href="https://github.com/privacy-protection-tools/anti-AD" rel="nofollow">[anti-AD]</a>
+    </summary>
   
 - [AdguardTeam/AdguardFilters](https://github.com/AdguardTeam/AdguardFilters) - AdGuard Content Blocking Filters
 - [fanboy-annoyance](https://easylist.to/easylist/fanboy-annoyance.txt) - 优秀的easylist列表
