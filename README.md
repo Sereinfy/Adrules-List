@@ -13,7 +13,7 @@
 <tr>
 <td align="left">adblockfilters</td> 
 <td align="left"><a href="https://gcore.jsdelivr.net/gh/217heidai/adblockfilters/rules/adblockfilters.txt" rel="nofollow">加速链接</a></td>
-<td align="left">dns</td>
+<td align="left">dns</td> 
 </tr>
 
 <tr>
@@ -66,8 +66,8 @@
 </tbody>
 </table>
 
-#adblockfilters 上游规则
-引用[AdBlock DNS Filters](https://github.com/217heidai/adblockfilters)
+# adblockfilters 上游规则
+引用[AdBlock DNS Filters](https://github.com/217heidai/adblockfilters) 
 | 规则                   |  类型  |                           原始链接                           |                           加速链接                           |
 | :--------------------- | :----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | ADgk                   | filter | [原始链接](https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt) | [加速链接](https://ghproxy.com/https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/ADgk.txt) |
