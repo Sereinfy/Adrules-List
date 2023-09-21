@@ -1,14 +1,13 @@
 # Adrules
 收集了适用于DNS拦截的广告规则（也可以只用插件），同时配合浏览器插件补充部分规则。拦截效果接近100%</br>
 
-AdGuard Home + 浏览器插件，或 只用浏览器插件，DNS类型选一个，其他做补充
->ADgk规则里有一些没有被转换为dns类型，所以用浏览器插件加载的方式重复补充</br>
 
-只用AdGuard Home 使用 DNS类型
->其他为补充规则，可选，推荐用插件加个ADgk规则
+**DNS类型只选一个**
+AdGuard Home 使用 DNS类型
+>其他为补充规则，可选，用于浏览器插件，推荐加个ADgk规则</br>
+>ADgk规则里有一些没有被转换为dns类型，所以用浏览器插件加载的方式重复补充
 
-下面写的分数，是DNS+补充的得分，
-
+下面写的分数，是DNS+补充的得分
 
 <table> 
 <thead>
@@ -40,7 +39,7 @@ AdGuard Home + 浏览器插件，或 只用浏览器插件，DNS类型选一个�
 <td align="left">anti-AD 中文区规则</td> 
 <td align="left"><a href="https://anti-ad.net/easylist.txt" rel="nofollow">官网链接</a></td>
 <td align="left">dns</td> 
-    <td align="left">条目少 92分</td> 
+    <td align="left">条目少 95分</td> 
 </tr>
 </tbody>
 <tbody>
@@ -50,7 +49,7 @@ AdGuard Home + 浏览器插件，或 只用浏览器插件，DNS类型选一个�
 <td align="left">AdblockFilters</td> 
 <td align="left"><a href="https://gcore.jsdelivr.net/gh/217heidai/adblockfilters/rules/adblockfilters.txt" rel="nofollow">加速链接</a></td>
 <td align="left">filter</td>
-    <td align="left">可选</td> 
+    <td align="left">模块拦截，建议启用</td> 
 </tr>
 
 <tr>
