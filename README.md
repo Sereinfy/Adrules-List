@@ -3,7 +3,8 @@
 
 AdGuard Home + 浏览器插件，或 只用浏览器插件，全都用
 >ADgk规则里有一些没有被转换为dns类型，所以用浏览器插件加载的方式重复补充</br>
-只用AdGuard Home 使用adblockfilters DNS类型
+
+只用AdGuard Home 使用AdBlock DNS Filters DNS类型
 >其他为补充规则，可选，推荐用插件加个ADgk规则
 
 
@@ -18,13 +19,13 @@ AdGuard Home + 浏览器插件，或 只用浏览器插件，全都用
 <tbody>
 
 <tr>
-<td align="left">adblockfilters</td> 
+<td align="left">AdBlock DNS Filters</td> 
 <td align="left"><a href="https://gcore.jsdelivr.net/gh/217heidai/adblockfilters/rules/adblockfilters.txt" rel="nofollow">加速链接</a></td>
 <td align="left">dns</td> 
 </tr>
 
 <tr>
-<td align="left">adblockfilters</td> 
+<td align="left">AdblockFilters</td> 
 <td align="left"><a href="https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt" rel="nofollow">加速链接</a></td>
 <td align="left">filter</td>
 </tr>
@@ -73,7 +74,7 @@ AdGuard Home + 浏览器插件，或 只用浏览器插件，全都用
 </tbody>
 </table>
 
-# adblockfilters 上游规则
+# 上游规则
 引用[AdBlock DNS Filters](https://github.com/217heidai/adblockfilters) 
 | 规则                   |  类型  |                           原始链接                           |                           加速链接                           |
 | :--------------------- | :----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
