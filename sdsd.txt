@@ -1,0 +1,18 @@
+tieba.baidu.com##div.nav-bar-bottom
+vidhub.cc##div.player-info > div.module
+||xlviirdr.com^
+||xlviiirdr.com^
+||xlivrdr.com^
+x.jd.com
+u-x.jd.com
+*.tjq.
+*.tlvmedia.
+*.topad.
+*.tuite8.
+*.u.18dx.
+*.xian.cm.
+###ADtip
+###AF_GDPR
+###APP div[id*="PrivacyPolicyToast"]
+###ATEDIN_cookie_warning
+###AVG-message
